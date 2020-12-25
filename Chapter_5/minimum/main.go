@@ -21,6 +21,5 @@ func main() {
 	}
 	*/
 
-	
 	println("The minimum element is", min)
 }
