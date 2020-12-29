@@ -1,4 +1,4 @@
-# Golang-journey
+# Introducing Go
 
 ![front](https://drive.google.com/uc?export=view&id=1t9xLJmsUa_uMIZxSBZpiohi4uR3hT33p)
 
